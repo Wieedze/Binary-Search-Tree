@@ -1,8 +1,3 @@
-Voici un exemple de README.md pour ton repository GitHub :
-
-markdown
-Copier
-Modifier
 # Binary Search Tree (BST) Implementation
 
 This repository contains a simple implementation of a Binary Search Tree (BST) in JavaScript. The BST supports basic operations like insertion, search, and traversal (both in-order and reverse in-order).
